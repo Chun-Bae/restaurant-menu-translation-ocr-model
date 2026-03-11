@@ -1,3 +1,5 @@
+> 📂 **관광 식당 메뉴판 번역 프로젝트** — [📱 App](https://github.com/Chun-Bae/restaurant-menu-translation-app) · [🖥️ Web](https://github.com/Chun-Bae/restaurant-menu-translation-web) · [🔧 API](https://github.com/Chun-Bae/restaurant-menu-translation-api) · **🔍 OCR Model** · [🌐 Translate Model](https://github.com/Chun-Bae/restaurant-menu-translation-translate-model)
+
 # 🔍 OCR Model — 메뉴판 텍스트 인식
 
 > **관광 음식메뉴판에 특화된 한국어 문자 인식 모델 (Docker 컨테이너)**
